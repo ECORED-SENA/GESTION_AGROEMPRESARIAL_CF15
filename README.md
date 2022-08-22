@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Control y Seguimiento**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/GESTION_AGROEMPRESARIAL_CF15/](https://ecored-sena.github.io/GESTION_AGROEMPRESARIAL_CF15/)
 
 #
 
