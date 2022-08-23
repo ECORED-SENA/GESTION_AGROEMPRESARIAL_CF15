@@ -25,7 +25,6 @@
 
     .row.justify-content-center.align-items-star.mb-5
       .col-lg-3(data-aos="fade")
-        p.mb-3 Estos son algunos elementos clave en la generación y formulación de objetivos para el proceso de certificación de las organizaciones:
           p.mb-3 Tales objetivos, entre otros, pueden ser:
           ul.lista-ul--color
             li 

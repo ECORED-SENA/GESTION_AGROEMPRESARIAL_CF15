@@ -39,7 +39,7 @@
               | Los instrumentos que facilitan identificar y evaluar los niveles de cumplimiento o desviación de los logros o actividades a realizar frente a los resultados esperados.
             li
               i.fas.fa-angle-right
-              | KPI (Key Performance Indicator).
+              | KPI (<i>Key Performance Indicator</i>).
             li 
               i.fas.fa-angle-right
               | Instrumento que representa la forma de medir si una función, proyecto, actividad, área funcional, unidad de negocio o la persona encargada, está alcanzando las metas y objetivos o, desde luego, los resultados esperados.
@@ -57,8 +57,6 @@
 
     #t_3_1.titulo-segundo
       .h2 3.1 Clasificación de los indicadores
-
-    p.mb-5 Existen también instalaciones que son necesarias y de común denominador para cualquier sistema productivo o explotación pecuaria, como son la bodega de almacenamiento, los silos de almacenamiento de alimento (en caso de necesitarlo), la bodega de almacenamiento de alimento y las áreas de oficinas, a continuación, se puede ver cada una de estas instalaciones:
 
     .bloque-texto-g.color-custom-1.p-3.p-sm-4.p-md-5.mb-5.d-none.d-lg-block
       .bloque-texto-g__img(data-aos="fade-right")(
@@ -137,7 +135,7 @@
       
     .row.mb-5.ps-2(data-aos="zoom-in-down")
       .col-lg-4.bg-color-1.px-4.py-2
-        .h4.mb-0 Diagrama de causa - Efecto
+        .h4.mb-0 Diagrama de causa - efecto
 
     p.mb-3 Es una herramienta para identificar de manera estructurada las causas de un problema o efecto evidenciado, a partir de un esquema gráfico que se asemeja a una espina de pescado, que es como también se denomina a esta herramienta.
 
@@ -152,7 +150,7 @@
       .col-lg-10
         .titulo-sexto.color-acento-botones
           h5 Figura 1. 
-          span El riesgo y la estimación
+          span Esquema de diagrama causa-efecto
 
     .row.justify-content-center.mb-5
       .col-lg-10-xl-5(data-aos="fade")
@@ -410,7 +408,7 @@
     .row.justify-content-center
       .col-lg-6(data-aos="fade")
         .titulo-sexto.color-acento-botones
-          h5 Figura 3. 
+          h5 Figura 2. 
         span  Clasificación de la estadística
           figure
             img.mx-2(src='@/assets/curso/images/tema3/info_3.svg' alt='' , style="width:1000px; display:block; margin:auto 0 ;")
@@ -464,7 +462,7 @@
     ul.lista-ul--color.mt-3
       li 
         i.fas.fa-angle-right
-        p <b>Muestreo</b>
+        p <b>Muestra</b>
 
     p.mb-3 Llevar a cabo estudios estadísticos requiere de un proceso cuidadoso de elección de los individuos o fenómenos por evaluar. Por limitaciones de recursos, tiempo y personal, suele ser inviable que se trabaje con la totalidad de una población para identificar comportamientos o preferencias. Es por eso que los trabajos sociales o económicos que evalúan un amplio número de individuos hacen uso del muestreo.
 
@@ -523,7 +521,7 @@
         .row(titulo="Probabilidad de éxito (p)")
           .col-md-6.mb-4.mb-md-0
             h3 Probabilidad de éxito (p)
-            p Este indicador puede tomarse de otros estudios previos relacionados, si no existe ninguna noción al respecto, se deduce que la probabilidad de éxito y de fracaso son equivalentes, es decir 50 %.
+            p Este indicador puede tomarse de otros estudios previos relacionados, si no existe ninguna noción al respecto, se deduce que la probabilidad de éxito y de fracaso son equivalentes, es decir 50%.
         
           .col-md-6
             figure
@@ -547,7 +545,7 @@
                 .col-lg-2
                   img.mx-1(src="@/assets/curso/images/tema3/ico_5.svg",  alt='', style="width:100px; display:block; margin:auto 0 ;")
                 .col.mb-3.mb-sm-0
-                  h3.text-white La Estadistica en la Economía
+                  h3.text-white La estadistica en la economía
                   p.mb-1.text-white Entérese de otros elementos relacionados con la Estadística, que pueden ser útiles.
                 .col-md-auto
                   a.boton.color-custom-9(:href="obtenerLink('downloads/La_Estadistica_En_La_Economia.pdf')" target="_blank")

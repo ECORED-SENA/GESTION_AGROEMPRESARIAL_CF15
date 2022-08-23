@@ -35,14 +35,14 @@
                 th.color-custom-6 Dificultades
             tbody
               tr
-                td.th-1 Ventas Totales
+                td.th-1 Ventas totales
                 td.th-1 1.000 und
                 td.th-1 996 und
                 td.th-1 Ok
                 td.th-1 Se realizó en un 98 % la ejecución
                 td.th-1 Una venta no confirmada
               tr
-                td Ahorro en Costos de producción
+                td Ahorro en costos de producción
                 td 10%
                 td 5%
                 td Regular
@@ -63,12 +63,16 @@
               .col-lg-12
                 p Los objetivos deberán ser realizables, alcanzables y se debe contar con los recursos suficientes para su alcance. El resultado de esta interpretación será continuar con seguimiento y control o realizar acciones de ajuste para superar las desviaciones evidenciadas. Para cada uno de los aspectos de control y seguimiento se debe llevar el proceso de evaluación.
 
-          .row.color-custom-5(titulo='Control simultáneo a la ejecución' numero='3')
+          .row.color-custom-5(titulo='Cuando hay desvío de resultados' numero='3')
+            .row.align-items-center
+              .col-lg-12
+                p Debido a cambios en los costos o en otros factores, los resultados obtenidos después de que el plan se ejecuta pueden desviarse de los resultados esperados; esto se debe a la incertidumbre y el riesgo que existe en la producción agrícola; no obstante, es necesario identificar el tipo y magnitud de las desviaciones tan pronto como sea posible, pues tiene impactos directos contra las utilidades.
+          .row.color-custom-5(titulo='Control simultáneo a la ejecución' numero='4')
             .row.align-items-center
               .col-lg-12
                 p Esta fase del proceso de control se desarrolla de manera simultánea a su ejecución; va ligeramente después de las acciones y sus efectos, de tal manera que no sea reactiva sino que, si se dan desviaciones se puedan corregir y ajustar oportunamente.
 
-          .row.color-custom-5(titulo='Medición del desempeño' numero='4')
+          .row.color-custom-5(titulo='Medición del desempeño' numero='5')
             .row.align-items-center
               .col-lg-12
                 p En esta fase se mide el desempeño y se contrasta con los indicadores de gestión establecidos previamente, a partir de allí, se procede a una interpretación y evaluación con el fin de identificar si se cumple con lo esperado, de ser así se sigue el proceso de medición en conformidad a lo programado, porque no significa que en un futuro los resultados presenten dificultades.

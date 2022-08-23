@@ -105,7 +105,7 @@
               td <b>Aspecto</b>
               td <b>Indicador</b>
               td <b>Meta</b>
-              td <b>lcanzado</b>
+              td <b>Alcanzado</b>
               td <b>Evaluación</b>
               td <b>Logros</b>
               td <b>Dificultades</b>
@@ -165,7 +165,7 @@
               td   
             tr
               td.th-1 Usar canales rentables como las redes
-              td.th-1 Faceboock, tweeter
+              td.th-1 faceboock y Tweeter
               td.th-1 
               td.th-1  
               td.th-1  
@@ -173,7 +173,7 @@
               td.th-1            
             tr
               <td rowspan="2"> <b>Formación / procesos internos</b></td> 
-              td Capacitacin para nuevo producto
+              td Capacitación para nuevo producto
               td Entrenamiento de clnica de ventas
               td  
               td  
@@ -181,8 +181,8 @@
               td  
               td   
             tr
-              td.th-1 Capacitación en coaching
-              td.th-1 consultora de grupo
+              td.th-1 Capacitación en <i>coaching</i>
+              td.th-1 consultoría de grupo
               td.th-1 
               td.th-1  
               td.th-1  
@@ -210,21 +210,21 @@
       .col-sm-6.col-lg-4.mb-4.mb-xl-0
         .jumbotron-1.h-100
           .p-4
-            img(src="@/assets/curso/images/tema2/img_6.png" alt='',style="width:340px;").mb-4
-            h3.text-center Control previo
-            p.text-center “En la actualidad, los climatólogos están comenzando a entender cuáles de las calamidades del año pasado se pueden o no se pueden relacionar con el calentamiento global. En una nueva serie de trabajos que se publicaron recientemente en Bulletin of the American Meteorological Society, investigadores de todo el mundo analizaron veintisiete eventos climáticos extremos de 2016 y encontraron que el cambio climático que ha provocado el hombre era un “motor significativo” en veintiuno de ellos”.
+            img.mx-3(src="@/assets/curso/images/tema2/img_6.png" alt='', style="width:300px; display:block; margin:auto 0 ;").my-5
+            h3.text-center.mt-5 Control previo
+            p.text-center.my-5 Conjunto de acciones que buscan la verificación de los recursos a intervenir en la empresa para el desarrollo de las actividades. Busca prevenir riesgos y garantizar la idoneidad de los recursos y que estos respondan eficaz y eficientemente (recursos humanos, materiales, financieros e intangibles).
       
       .col-sm-6.col-lg-4.mb-4.mb-xl-0
         .jumbotron-1.h-100
           .p-5
-            img.mt-2(src="@/assets/curso/images/tema2/img_7.png" alt='',).mb-4
+            img(src="@/assets/curso/images/tema2/img_7.png" alt='',).mb-4
             h3.text-center.my-5 Control  operativo
             p.text-center.mb-4  Este control se lleva a cabo a lo largo del proceso operativo empresarial, es decir, de manera paralela al proceso productivo de la empresa. Busca verificar la correcta agregación de valores, el cumplimiento de procesos, la reducción de desperdicios, el correcto uso de recursos, etc.
       
       .col-sm-6.col-lg-4.mb-4.mb-xl-0
         .jumbotron-1
           .p-5
-            img.mb-2(src="@/assets/curso/images/tema2/img_8.png" alt='',)
+            img(src="@/assets/curso/images/tema2/img_8.png" alt='',)
             h3.text-center.mt-3 Control posterior
             p.text-center.p-3 Es el seguimiento y control que busca verificar que los valores se agregaron correctamente, se valida la funcionalidad e idoneidad del producto final, y se da de manera retrospectiva, identificando conclusiones y dificultades en el proceso, con el fin de evitar futuros errores en nuevos procesos similares.
 

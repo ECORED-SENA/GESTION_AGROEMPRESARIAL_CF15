@@ -26,7 +26,6 @@
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-12(data-aos="fade")
         .cajon.color-custom-4.p-4.mb-3
-          h3 Protocolos
           p.mb-3 Las gestiones gerenciales se ajustarán en conformidad a sus capacidades sin existir un estándar. Así mismo la superintendencia de industria y comercio ejerce el control de las empresas en cuento al cumplimiento de las prácticas comerciales, sin adentrarse en las prácticas administrativas propiamente dichas, solo velando por los deberes y derechos de sus clientes, en las transacciones realizadas.
 
     p.mb-3 En lo relacionado con la normatividad para el control administrativo, conozca los siguientes aspectos y generalidades de suma importancia:
@@ -49,7 +48,7 @@
         .row.justify-content-center.align-items-star.p-5
           .col-lg-4
             h3.mb-5 Regulación institucional
-            p.mb-0 En el sector público será la Contraloría de la Republica y los demás actores de control, quienes velarán por las buenas prácticas del control interno y cumplimiento de los objetivos corporativos. 
+            p.mb-0 En el sector público será la Contraloría de la República y los demás actores de control, quienes velarán por las buenas prácticas del control interno y cumplimiento de los objetivos corporativos. 
           .col-lg-8
             img(src="@/assets/curso/images/tema6/img_4.png").mb-3
 

@@ -12,7 +12,7 @@
     :style="{'background-image': `url(${require('@/assets/curso/images/tema5/img_1.png')})`}"
     )
       .bloque-texto-g__texto.p-5(data-aos="fade-right")
-        p.mb-3 El último paso del control, cuando se evidencian niveles de desviaciones, es aplicar medidas de ajuste, conociendo las causas y razones del porqué no se alcanzan los objetivos, estableciendo acciones que ayuden a corregirlas o a solucionar el problema, retomando la ruta de desempeño de la empresa.
+        p.mb-3 El último paso del control, cuando se evidencian niveles de desviaciones, es aplicar medidas de ajuste, conociendo las causas y razones del por que no se alcanzan los objetivos, estableciendo acciones que ayuden a corregirlas o a solucionar el problema, retomando la ruta de desempeño de la empresa.
 
     .bloque-texto-a.color-custom-4.p-md-0.mb-5.d-block.d-lg-none
       .row.m-4.align-items-center.justify-content-between
@@ -30,6 +30,9 @@
       .col-lg-6(data-aos="fade")
         p Las posibles acciones correctivas (ver tabla 4) y de mejora, provendrán de aspectos tales como:
           ul.lista-ul--color.mt-3
+            li 
+              i.fas.fa-angle-right
+              | Fallas operativas,  en ese caso se debe hacer el reajuste de capacitación y entrenamiento.
             li 
               i.fas.fa-angle-right
               | Fallas por implicación de recursos lo que se corrige con asignación de más recursos y programación de su uso para armonizar con la desviación en tiempo.
@@ -57,13 +60,13 @@
                 th.color-custom-6 Acciones de mejora
             tbody
               tr
-                td.th-1.text-center Ahorro en Costos de producción
-                td.th-1.text-center  10 %
-                td.th-1.text-center  5 %
+                td.th-1.text-center Ahorro en costos de producción
+                td.th-1.text-center  10%
+                td.th-1.text-center  5%
                 td.th-1.text-center  Regular
                 td.th-1.text-center  Se consolidó el 50% del objetivo
                 td.th-1.text-center  Tendencia de alza en proveedores
-                td.th-1.text-center  Buscar nuevos proveedores, o materias primas insumos o suministros sustitutos para el siguiente periodo
+                td.th-1.text-center  Buscar nuevos proveedores, o materias primas insumos o suministros sustitutos para el siguiente período
 
     .row.justify-content-center.align-items-star.mb-5
       .col-lg-8(data-aos="fade")

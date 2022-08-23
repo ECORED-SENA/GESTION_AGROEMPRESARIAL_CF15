@@ -3,11 +3,6 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    .row.justify-content-center.aling-left
-      .col-lg-12
-        .titulo-sexto.color-acento-botones
-          h5 Gestión agroempresarial 
-          p  Síntesis: Manejo del sistema de poscosecha en la producción agrícola
 
     p.mb-5 Se ha finalizado el estudio de los contenidos de este componente formativo. En este punto, haga un análisis de la estructura que se muestra a continuación. Registre esta síntesis en su libreta personal de apuntes. Además, haga un repaso de los puntos que considere necesario.
 
