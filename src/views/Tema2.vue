@@ -165,7 +165,7 @@
               td   
             tr
               td.th-1 Usar canales rentables como las redes
-              td.th-1 faceboock y Tweeter
+              td.th-1 facebook y Twitter
               td.th-1 
               td.th-1  
               td.th-1  

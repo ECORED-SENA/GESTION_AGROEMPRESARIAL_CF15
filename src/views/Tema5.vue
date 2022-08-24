@@ -12,13 +12,13 @@
     :style="{'background-image': `url(${require('@/assets/curso/images/tema5/img_1.png')})`}"
     )
       .bloque-texto-g__texto.p-5(data-aos="fade-right")
-        p.mb-3 El último paso del control, cuando se evidencian niveles de desviaciones, es aplicar medidas de ajuste, conociendo las causas y razones del por que no se alcanzan los objetivos, estableciendo acciones que ayuden a corregirlas o a solucionar el problema, retomando la ruta de desempeño de la empresa.
+        p.mb-3 El último paso del control, cuando se evidencian niveles de desviaciones, es aplicar medidas de ajuste, conociendo las causas y razones del por qué no se alcanzan los objetivos, estableciendo acciones que ayuden a corregirlas o a solucionar el problema, retomando la ruta de desempeño de la empresa.
 
     .bloque-texto-a.color-custom-4.p-md-0.mb-5.d-block.d-lg-none
       .row.m-4.align-items-center.justify-content-between
         .col-lg-9(data-aos="fade-right")
           .bloque-texto-a__texto.p-5.my-5
-            p El último paso del control, cuando se evidencian niveles de desviaciones, es aplicar medidas de ajuste, conociendo las causas y razones del porqué no se alcanzan los objetivos, estableciendo acciones que ayuden a corregirlas o a solucionar el problema, retomando la ruta de desempeño de la empresa.
+            p El último paso del control, cuando se evidencian niveles de desviaciones, es aplicar medidas de ajuste, conociendo las causas y razones del por qué no se alcanzan los objetivos, estableciendo acciones que ayuden a corregirlas o a solucionar el problema, retomando la ruta de desempeño de la empresa.
         .col-lg-3.mb-3.mb-lg-0(data-aos="fade-left")
           figure
             img(src='@/assets/curso/images/tema5/img_1.png' alt='', style="width:400px; display:block; margin:-1rem 0 ;").mb-3

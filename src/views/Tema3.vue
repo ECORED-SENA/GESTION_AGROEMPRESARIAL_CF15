@@ -481,7 +481,7 @@
     ul.lista-ul--color.mt-3
       li 
         i.fas.fa-angle-right
-        p <b> Tamaño de la muestreo</b>
+        p <b> Tamaño de la muestra</b>
 
     p.mb-3 Elegir el tamaño necesario de la muestra para alcanzar los objetivos del estudio puede ser tan complejo y preciso como se desee. A continuación, se presentan los elementos clave a tener en cuenta:
 
