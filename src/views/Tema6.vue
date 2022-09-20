@@ -24,7 +24,7 @@
             img(src='@/assets/curso/images/tema6/img_1.png' alt='', style="width:400px; display:block; margin:-1rem 0 ;").mb-3
 
     .row.justify-content-center.align-items-center.mb-3
-      .col-lg-12(data-aos="fade")
+      .col-lg-12(data-aos="zoom-in-up")
         .cajon.color-custom-4.p-4.mb-3
           p.mb-3 Las gestiones gerenciales se ajustarán en conformidad a sus capacidades sin existir un estándar. Así mismo la superintendencia de industria y comercio ejerce el control de las empresas en cuento al cumplimiento de las prácticas comerciales, sin adentrarse en las prácticas administrativas propiamente dichas, solo velando por los deberes y derechos de sus clientes, en las transacciones realizadas.
 
@@ -32,23 +32,23 @@
 
     .tarjeta.bg_grad-01.p-4.mb-5(data-aos="zoom-in-up")
       SlyderA(tipo="b")
-        .row.justify-content-center.align-items-star.p-5
+        .row.justify-content-center.align-items-star.p-3
           .col-lg-4
             h3.mb-5 Protección de datos
-            p.mb-0 La Superintendencia de Industria y Comercio protege y da protección de los datos personales, la metrología de las cantidades de producto, a través del ejercicio de sus funciones administrativas y jurisdiccionales, pero no hace ni vela sobre el control interno de las empresas.
+            p.mb-3 La Superintendencia de Industria y Comercio protege y da protección de los datos personales, la metrología de las cantidades de producto, a través del ejercicio de sus funciones administrativas y jurisdiccionales, pero no hace ni vela sobre el control interno de las empresas.
           .col-lg-8
             img(src="@/assets/curso/images/tema6/img_2.png").mb-3
-        .row.justify-content-center.align-items-star.p-5
+        .row.justify-content-center.align-items-star.p-3
           .col-lg-4
             h3.mb-5 Buenas prácticas de gestión
-            p.mb-0 Es responsabilidad social empresarial, el cumplimiento de las buenas prácticas de gestión y del desarrollo de la competitividad, en conformidad a la práctica de la sana competencia.
+            p.mb-3 Es responsabilidad social empresarial, el cumplimiento de las buenas prácticas de gestión y del desarrollo de la competitividad, en conformidad a la práctica de la sana competencia.
           .col-lg-8
             img(src="@/assets/curso/images/tema6/img_3.png").mb-3
 
-        .row.justify-content-center.align-items-star.p-5
+        .row.justify-content-center.align-items-star.p-3
           .col-lg-4
             h3.mb-5 Regulación institucional
-            p.mb-0 En el sector público será la Contraloría de la República y los demás actores de control, quienes velarán por las buenas prácticas del control interno y cumplimiento de los objetivos corporativos. 
+            p.mb-3 En el sector público será la Contraloría de la República y los demás actores de control, quienes velarán por las buenas prácticas del control interno y cumplimiento de los objetivos corporativos. 
           .col-lg-8
             img(src="@/assets/curso/images/tema6/img_4.png").mb-3
 

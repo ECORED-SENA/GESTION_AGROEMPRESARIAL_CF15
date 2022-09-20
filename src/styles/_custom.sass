@@ -1,3 +1,40 @@
+.banner-principal-decorativo
+  &-1
+    animation: rotation 3.5s ease-in-out infinite alternate
+    position: absolute
+    top: 5%
+    right: 3%
+  &-2
+    animation: float1 3.5s ease-in-out infinite alternate
+    position: absolute
+    top: 70%
+    right: 55%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 61%
+    right: 70%
+  &-4
+    animation: float1 3.5s ease-in-out infinite alternate
+    position: absolute
+    top: 50%
+    right: 25%
+  
+@keyframes rotation
+  from 
+    transform: rotate(0deg)
+  to 
+    transform: rotate(359deg)
+ 
+@keyframes float1
+  0%
+    transform: translateY(70px)
+
+  100%
+    transform: translateY(0px)
+  
+  
+  
 .banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6 
   color: #000
 
@@ -71,6 +108,11 @@
 
 .fondo-5
   background-image: url('../assets/curso/images/tema5/back.svg')
+  background-size: cover
+  background-repeat: no-repeat
+
+.fondo-6
+  background-image: url('../assets/curso/images/tema3/back_new.svg')
   background-size: cover
   background-repeat: no-repeat
 
@@ -300,7 +342,7 @@
 
 .color-custom-10
   background-color: #A3314F
-
+  box-shadow: 2px 4px 8px #cdcdcd
 .tarjeta.tarjeta--azul
   background-color: #E1E4A8
 
@@ -317,6 +359,8 @@
 .linea-tiempo-d__item__content__title 
   cursor: pointer
   font-size: 20px
+  @media (max-width: 412px)
+    width: 350px
 .linea-tiempo-d__item__dots::after 
   content: ''
   display: block
@@ -342,5 +386,6 @@
   text-align: center
   font-size: 1.125em
 
-
+.horizontal-scroll
+    align-items: stretch!important
     

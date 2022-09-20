@@ -51,7 +51,7 @@
       .col-lg-7.mb-3(data-aos="fade-right") 
         img(src='@/assets/curso/images/tema1/img_2.png'  alt='')
 
-    .row.justify-content-center.align-items-center.mb-3
+    .row.justify-content-center.align-items-center.mb-3(data-aos="zoom-in-up")
       .col-lg-10(data-aos="fade")
         .cajon.color-custom-2.p-4.mb-3
           p.mb-3 Para el cumplimiento de estos y otros posibles objetivos, la empresa cumple con lo dispuesto según la legislación empresarial que le corresponde, en materia mercantil, tributaria, régimen laboral, etc. Todo lo anterior en un marco de responsabilidad social empresarial.
@@ -68,7 +68,7 @@
     p.mb-5 Se debe tener en cuenta algunos aspectos clave, relacionados con la gestión del control en las empresas, que se enuncian a continuación:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left") 
-      .col-12.col-md-8.col-lg-8.col-xl-8.mb-4
+      .col-12.col-md-8.col-lg-7.col-xl-7.mb-4
         ImagenInfografica.color-acento-botones.mb-3
           template(v-slot:imagen)
             figure
@@ -77,42 +77,42 @@
           .tarjeta-blanca.p-3(x="50%" y="-1%" numero="+")
             .row.justify-content-center.align-items-center
               .col-lg-4.mb-4.mb-lg-0
-                h6.mb-3 1. Exigencias siempre cambiantes
+                h4.mb-3 1. Exigencias siempre cambiantes
                 img(src='@/assets/curso/images/tema1/img_7.svg'  alt='', style="width:180px; display:block; margin:auto 0 ;")
               .col-lg-6       
-                p.my-5 El mundo empresarial exige el desarrollo de su actividad en un escenario cada vez más globalizado, competitivo y cambiante, en un marco de referencia de, cada vez, más complejidad técnica.
+                p.mt-2 El mundo empresarial exige el desarrollo de su actividad en un escenario cada vez más globalizado, competitivo y cambiante, en un marco de referencia de, cada vez, más complejidad técnica.
             
           .tarjeta-blanca.p-3(x="100%" y="40%" numero="+")
             .row.justify-content-center.align-items-center
               .col-lg-4.mb-4.mb-lg-0
-                h6.mb-2 2. Niveles jerárquicos
+                h4.mb-2 2. Niveles jerárquicos
                 img(src='@/assets/curso/images/tema1/img_3.svg'  alt='', style="width:180px; display:block; margin:auto 0 ;")
               .col-lg-6       
-                p.mt-5 No se busca (ni se trata de ello) que las organizaciones sean, necesariamente, grandes, sino que la tendencia es disminuir escalas de niveles jerárquicos, donde la complejidad a que se exponen ahora, radica en empresas de un alto volumen de operación y un alto nivel de coordinación de funciones.
+                p.mt-2 No se busca (ni se trata de ello) que las organizaciones sean, necesariamente, grandes, sino que la tendencia es disminuir escalas de niveles jerárquicos, donde la complejidad a que se exponen ahora, radica en empresas de un alto volumen de operación y un alto nivel de coordinación de funciones.
 
           .tarjeta-blanca.p-3(x="80%" y="90%" numero="+")
             .row.justify-content-center.align-items-center
               .col-lg-4.mb-4.mb-lg-0
-                h6.mb-2 3. Poder de decisión
+                h4.mb-2 3. Poder de decisión
                 img(src='@/assets/curso/images/tema1/img_4.svg'  alt='', style="width:180px; display:block; margin:auto 0 ;")
               .col-lg-6     
-                p.mt-5 En este ejercicio de coordinación el poder de decisión se aleja de los gerentes generales e inversionistas, a los cuales les corresponde confiar en la buena gestión de sus empleados, directivos, etc.; quienes toman las decisiones para el logro operativo de los objetivos establecidos.
+                p.mt-2 En este ejercicio de coordinación el poder de decisión se aleja de los gerentes generales e inversionistas, a los cuales les corresponde confiar en la buena gestión de sus empleados, directivos, etc.; quienes toman las decisiones para el logro operativo de los objetivos establecidos.
 
           .tarjeta-blanca.p-3(x="20%" y="90%" numero="+")
             .row.justify-content-center.align-items-center
               .col-lg-4.mb-4.mb-lg-0
-                h6.mb-2 4. Verificación y correspondencia
+                h4.mb-2 4. Verificación y correspondencia
                 img(src='@/assets/curso/images/tema1/img_5.svg'  alt='', style="width:180px; display:block; margin:auto 0 ;")
               .col-lg-6        
-                p.mt-5 La necesidad de control surge para verificar que las decisiones y los recursos asignados corresponden a los aprobados por el gerente o inversionistas en pro de los objetivos planteados.
+                p.mt-2 La necesidad de control surge para verificar que las decisiones y los recursos asignados corresponden a los aprobados por el gerente o inversionistas en pro de los objetivos planteados.
 
           .tarjeta-blanca-1.p-3(x="1%" y="40%" numero="+")
             .row.justify-content-center.align-items-center
               .col-lg-4.mb-4.mb-lg-0
-                h6.mb-2 5. Coherencia
+                h4.mb-2 5. Coherencia
                 img(src='@/assets/curso/images/tema1/img_6.svg'  alt='', style="width:180px; display:block; margin:auto 0 ;")
               .col-lg-6       
-                p.mt-5 La gestión del control en la organización debe asegurar que las actividades de la empresa sean coherentes con el entorno que permite su operación, con sus colaboradores, con la normatividad; no solo con los objetivos.
+                p.mt-2 La gestión del control en la organización debe asegurar que las actividades de la empresa sean coherentes con el entorno que permite su operación, con sus colaboradores, con la normatividad; no solo con los objetivos.
 
   .container.bg-white.p-md-5.p-4.container-bottom.mt-0.cs.mb-5 
     

@@ -7,7 +7,7 @@
     p.mb-5 Se ha finalizado el estudio de los contenidos de este componente formativo. En este punto, haga un análisis de la estructura que se muestra a continuación. Registre esta síntesis en su libreta personal de apuntes. Además, haga un repaso de los puntos que considere necesario.
 
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="zoom-in-up")
       .col-lg-10.mb-5
         figure
           img(src="@/assets/curso/images/tema6/sintesis.svg", alt="alt")
