@@ -91,7 +91,7 @@
       .col-lg-10
         .tarjeta-avatar-b
           .tarjeta-avatar-b__img
-            img(src='@/assets/curso/images/tema3/ico_2.svg' alt='', style="width:180px; display:block; margin:auto 0 ;")
+            img(src='@/assets/curso/images/tema3/ico_2.svg' alt='', style="width:150px; display:block; margin:auto 1rem ;")
           .tarjeta.tarjeta--azul
             .px-3.py-3
               p.mt-4 Son varias las herramientas para la gestión empresarial que permiten optimizar su desarrollo y orientar la toma de decisiones y la dirección efectiva de la empresa.
@@ -105,7 +105,7 @@
       .tarjeta.sp1.p-3.h-100
         .row.justify-content-center.mb-3
           .col-12
-            img.mb-5(src='@/assets/curso/images/tema3/img_4.svg')
+            img.mb-3(src='@/assets/curso/images/tema3/img_4.svg')
             h4.text-center Conocimiento de los procesos
             p.mb-0.text-center Las herramientas de gestión facilitan el análisis de la organización y aumentan el control, ampliando el conocimiento de los procesos y actividades que se desarrollan.
               
@@ -313,7 +313,7 @@
               i.fas.fa-angle-right
               | Esta herramienta tiene muchas aplicabilidades, para el análisis en la empresa, y por ende facilitar la toma de decisiones, es un ejercicio de aplicabilidad de la administración promoverla al interior de sus diferentes áreas funcionales.
 
-    .row.mb-5.ps-3(data-aos="zoom-in-down")
+    .row.mb-0.ps-3(data-aos="zoom-in-down")
       .col-lg-6.bg-color-3.px-4.py-3
         .h4.mb-0 Herramientas de información de estadística básica
 

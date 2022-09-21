@@ -60,9 +60,21 @@
 
 .m-left
   left: 50% !important 
+  @media (max-width: 992px)
+    width: 100%
+    margin-left: -434px
+  @media (max-width: 768px)
+    width: 100%
+    margin-left: -134px
 
 .m-right
   right: -40% !important
+  @media (max-width: 992px)
+    width: 100%
+    margin-left: -300px
+  @media (max-width: 768px)
+    width: 100%
+    margin-left: -134px
 
 .m-top
   margin-top: -70px
@@ -125,10 +137,16 @@
   background-repeat: no-repeat
   background-size: cover
   @media (max-width: 992px)
-    width: 390px
+    width: 100%
     margin-left: -24px
+  @media (max-width: 768px)
+    width: 100%
+    margin-left: 5px
+  @media (max-width: 576px)
+    width: 100%
+    margin-left: 2px
   @media (max-width: 412px)
-    margin-left: -12px !important
+    margin-left: -2px !important
   @media (max-width: 397px)
     margin-left: -21px !important
 
@@ -172,13 +190,28 @@
   border-bottom-left-radius: 15px
   width: 780px !important
   height: 280px !important
-  margin-left: -250px !important
+  margin-left: -214px !important
+  background-size: contain !important
+  background-repeat: no-repeat
   @media (max-width: 992px)
     background-color: #F5F5F5
     background-repeat: no-repeat
     width: 780px !important
     height: 280px !important
     margin-left: -300px !important
+  @media (max-width: 768px)
+    background-color: #F5F5F5
+    background-repeat: no-repeat
+    width: 580px !important
+    height: 350px !important
+    margin-left: -200px !important
+  @media (max-width: 576px)
+    background-color: #F5F5F5
+    background-repeat: no-repeat
+    background-size: cover
+    width: 100% !important
+    height: 580px !important
+    margin-left: -100px !important
   @media (max-width: 412px)
     background-color: #F5F5F5
     background-repeat: no-repeat
@@ -201,25 +234,40 @@
   border-bottom-left-radius: 15px
   width: 780px !important
   height: 280px !important
-  margin-left: -200px !important
+  margin-left: -214px !important
+  background-size: contain !important
+  background-repeat: no-repeat
   @media (max-width: 992px)
     background-color: #F5F5F5
     background-repeat: no-repeat
     width: 780px !important
     height: 280px !important
     margin-left: -300px !important
+  @media (max-width: 768px)
+    background-color: #F5F5F5
+    background-repeat: no-repeat
+    width: 580px !important
+    height: 320px !important
+    margin-left: -100px !important
+  @media (max-width: 576px)
+    background-color: #F5F5F5
+    background-repeat: no-repeat
+    background-size: cover
+    width: 100% !important
+    height: 580px !important
+    margin-left: -10px !important
   @media (max-width: 412px)
     background-color: #F5F5F5
     background-repeat: no-repeat
     width: 321px !important
     height: 414px !important
-    margin-left: -10px !important
+    margin-left: -15px !important
   @media (max-width: 397px)
     background-color: #F5F5F5
     background-repeat: no-repeat
-    width: 300px !important
-    height: 400px !important
-    margin-left: 20px !important
+    width: 321px !important
+    height: 414px !important
+    margin-left: -35px !important
 
 .tarjeta-violeta
   background-color: #E8CBD3
@@ -236,6 +284,19 @@
     width: 780px !important
     height: 280px !important
     margin-left: -300px !important
+  @media (max-width: 768px)
+    background-color: #E8CBD3
+    background-repeat: no-repeat
+    width: 580px !important
+    height: 140px !important
+    margin-left: -180px !important
+  @media (max-width: 576px)
+    background-color: #E8CBD3
+    background-repeat: no-repeat
+    background-size: cover
+    width: 100% !important
+    height: 200px !important
+    margin-left: -10px !important
   @media (max-width: 412px)
     background-color: #E8CBD3
     background-repeat: no-repeat
@@ -264,6 +325,19 @@
     width: 780px !important
     height: 280px !important
     margin-left: -380px !important
+  @media (max-width: 768px)
+    background-color: #E8CBD3
+    background-repeat: no-repeat
+    width: 580px !important
+    height: 200px !important
+    margin-left: -250px !important
+  @media (max-width: 576px)
+    background-color: #E8CBD3
+    background-repeat: no-repeat
+    background-size: cover
+    width: 100% !important
+    height: 350px !important
+    margin-left: -10px !important
   @media (max-width: 412px)
     background-color: #E8CBD3
     background-repeat: no-repeat
@@ -293,6 +367,19 @@
     width: 780px !important
     height: 280px !important
     margin-left: -100px !important
+  @media (max-width: 768px)
+    background-color: #E8CBD3
+    background-repeat: no-repeat
+    width: 580px !important
+    height: 180px !important
+    margin-left: -80px !important
+  @media (max-width: 576px)
+    background-color: #E8CBD3
+    background-repeat: no-repeat
+    background-size: cover
+    width: 100% !important
+    height: 320px !important
+    margin-left: -10px !important
   @media (max-width: 412px)
     background-color: #E8CBD3
     background-repeat: no-repeat
@@ -310,6 +397,9 @@
 	background-color: #A3314F
 	&::before
 		background-color: #fff
+
+    
+
 
 .color-custom-2
 	background-color: #E8CBD3
