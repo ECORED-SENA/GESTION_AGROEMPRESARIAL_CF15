@@ -418,7 +418,7 @@
     .row.justify-content-center
       .col-lg-6(data-aos="fade")
         .titulo-sexto.color-acento-contenido
-          h5 Figura 3. 
+          h5 Figura 2. 
         span  Clasificación de la estadística
           figure
             img.mx-2(src='@/assets/curso/images/tema3/info_3.svg' alt='' , style="width:1000px; display:block; margin:auto 0 ;")
@@ -472,7 +472,7 @@
     ul.lista-ul--color.mt-3
       li 
         i.fas.fa-angle-right
-        h4 <b>Muestra</b>
+        h4 <b>Muestreo</b>
 
     p.mb-3 Llevar a cabo estudios estadísticos requiere de un proceso cuidadoso de elección de los individuos o fenómenos por evaluar. Por limitaciones de recursos, tiempo y personal, suele ser inviable que se trabaje con la totalidad de una población para identificar comportamientos o preferencias. Es por eso que los trabajos sociales o económicos que evalúan un amplio número de individuos hacen uso del muestreo.
 
@@ -482,11 +482,11 @@
           p.mb-3 El muestreo funciona reduciendo la cantidad de personas a las cuales indagar, para luego proyectar los resultados a una población mayor. Funciona como metodología que hace más eficiente el trabajo obteniendo resultados aceptables y con un bajo margen de error.
 
    
-    p.mb-3 En el siguiente vídeo, se puede profundizar en los aspectos más importantes sobre el muestro en el ejercicio estadístico:
+    p.mb-3 En el siguiente vídeo, se puede profundizar en los aspectos más importantes sobre el muestreo en el ejercicio estadístico:
 
     figure.mb-5
       .video(data-aos="zoom-in-up")
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/jXKPmZ6-NZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/yGbtOWCHY4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         
     ul.lista-ul--color.mt-3
       li 
@@ -541,7 +541,7 @@
             .row(titulo="Probabilidad de fracaso (q)")
               .col-md-6.mb-4.mb-md-0
                 h4 Probabilidad de fracaso (q)
-                p Al igual que el indicador anterior, obedece a evidencia de estudios previos, la suma de la probabilidad de éxito más la de fracaso debe ser igual al 100% de los eventos. Así pues, la probabilidad de fracaso será igual al 100 % menos la probabilidad de éxito, en otras palabras q = 1 - p
+                p Al igual que el indicador anterior, obedece a evidencia de estudios previos, la suma de la probabilidad de éxito más la de fracaso debe ser igual al 100 % de los eventos. Así pues, la probabilidad de fracaso será igual al 100 % menos la probabilidad de éxito, en otras palabras q = 1 - p
             
               .col-md-6
                 figure
@@ -556,7 +556,7 @@
                 .col-lg-2
                   img.mx-1(src="@/assets/curso/images/tema3/ico_5.svg",  alt='', style="width:80px; display:block; margin:auto 0 ;")
                 .col.mb-3.mb-sm-0
-                  h5.text-white La estadistica en la economía
+                  h5.text-white La estadística en la economía
                   p.mb-1.text-white Entérese de otros elementos relacionados con la Estadística, que pueden ser útiles.
                 .col-md-auto
                   a.boton.color-custom-9(:href="obtenerLink('downloads/La_Estadistica_En_La_Economia.pdf')" target="_blank")

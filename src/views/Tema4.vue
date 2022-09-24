@@ -43,8 +43,8 @@
                 td.th-1 Una venta no confirmada
               tr
                 td Ahorro en costos de producción
-                td 10%
-                td 5%
+                td 10 %
+                td 5 %
                 td Regular
                 td Se consolidó el 50% del objetivo
                 td Tendencia de alza en proveedores
@@ -76,6 +76,18 @@
             .row.align-items-center
               .col-lg-12
                 p.mb-0 En esta fase se mide el desempeño y se contrasta con los indicadores de gestión establecidos previamente, a partir de allí, se procede a una interpretación y evaluación con el fin de identificar si se cumple con lo esperado, de ser así se sigue el proceso de medición en conformidad a lo programado, porque no significa que en un futuro los resultados presenten dificultades.
+
+          .row.color-custom-5(titulo='Continuidad de la medición' numero='6')
+            .row.align-items-center
+              .col-lg-12
+                p.mb-0 Si los indicadores y la evaluación evidencian que se está cumpliendo con los resultados esperados, la decisión será seguir midiendo, dado que el proceso debe ser permanente y con una sola medición no se garantiza el cumplimiento.
+
+          .row.color-custom-5(titulo='Cuando hay desviaciones de indicadores' numero='7')
+            .row.align-items-center
+              .col-lg-12
+                p.mb-0 De existir desviaciones, es decir, que no se cumple con el indicador y su meta, se deberán realizar acciones de ajuste al plan de acción o donde se identifique necesario; así mismo buscar el porqué de la desviación, bien sea por problemas de costos o porque se midió mal, etc.
+
+
 
       .col-lg-6(data-aos="fade-left")
         img.mt-3(src='@/assets/curso/images/tema4/img_2.svg' alt='', style="width:500px; display:block; margin:auto 0;")

@@ -220,12 +220,12 @@ export default {
     {
       termino: 'Factores relevantes',
       significado:
-        'Son los aspectos o variables que inciden en la empresa de manera significativa, se denominan críticos, por que repercuten en el estado actual de la empresa. No siempre son los mismos, pueden cambiar con el tiempo.',
+        'Son los aspectos o variables que inciden en la empresa de manera significativa, se denominan críticos, porque repercuten en el estado actual de la empresa. No siempre son los mismos, pueden cambiar con el tiempo.',
     },
     {
       termino: 'Meta',
       significado:
-        'Valor esperado den un indicador, el cual se fija desde la planeación y se verifica su cumplimiento en la fase de control en el proceso administrativo.',
+        'Valor esperado de un indicador, el cual se fija desde la planeación y se verifica su cumplimiento en la fase de control en el proceso administrativo.',
     },
     {
       termino: 'Objetivos',
@@ -240,14 +240,14 @@ export default {
     {
       termino: 'Proceso administrativo',
       significado:
-        'Serie de fases de actividades que buscan dar un eficiente uso de los recursos y facilitar la dinámica empresarial, es decir facilitar el cumplimiento de su propósito empresarial..',
+        'Serie de fases de actividades que buscan dar un eficiente uso de los recursos y facilitar la dinámica empresarial, es decir facilitar el cumplimiento de su propósito empresarial.',
     },
   ],
   complementario: [
     {
       tema: 'Gestión de control',
       referencia:
-        'Terreros, D. (2021, julio 15).Indicadores de gestión empresarial: características y tipos. [Web log post]. Hubspot.  ',
+        'Terreros, D. (2021, julio 15). Indicadores de gestión empresarial: características, tipos y ejemplos [Web log post]. Hubspot.  ',
       tipo: 'Artículo',
       link: 'https://blog.hubspot.es/marketing/indicadores-de-gestion',
     },

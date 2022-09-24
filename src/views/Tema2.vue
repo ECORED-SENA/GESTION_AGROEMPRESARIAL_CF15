@@ -84,7 +84,7 @@
             .row.justify-content-center.align-items-center
               .col-lg-12.mb-4.mb-lg-0
                 h5.mb-2 Construir sistema de información y medición
-                p.mb-0 Compila los registros de datos y resultados de las mediciones y posterior evaluación los resultados, si se está logrando la consecución de los objetivos.
+                p.mb-0 Compila los registros de datos y resultados de las mediciones y posterior evaluación de los resultados, si se está logrando la consecución de los objetivos.
 
           .tarjeta-violeta-1.p-3(x="58%" y="20%" numero="+")
             .row.justify-content-center.align-items-center
@@ -114,7 +114,7 @@
             tr
               <td rowspan="3"> <b>Financiero</b></td> 
               td.th-1 Mejorar los rendimientos
-              td.th-1 Aumentar 10% rentabilidad
+              td.th-1 Aumentar 10 % rentabilidad
               td.th-1 
               td.th-1 
               td.th-1  
@@ -147,7 +147,7 @@
               td  
               td   
             tr
-              td.th-1 Disminuir el servicio post- venta por aumento en calidad de entregas
+              td.th-1 Disminuir el servicio posventa por aumento en calidad de entregas
               td.th-1 2% de solicitudes de servicio
               td.th-1 
               td.th-1  
@@ -165,7 +165,7 @@
               td   
             tr
               td.th-1 Usar canales rentables como las redes
-              td.th-1 facebook y Twitter
+              td.th-1 Facebook y Twitter
               td.th-1 
               td.th-1  
               td.th-1  
@@ -174,7 +174,7 @@
             tr
               <td rowspan="2"> <b>Formación / procesos internos</b></td> 
               td Capacitación para nuevo producto
-              td Entrenamiento de clnica de ventas
+              td Entrenamiento de clínica de ventas
               td  
               td  
               td  
@@ -182,7 +182,7 @@
               td   
             tr
               td.th-1 Capacitación en <i>coaching</i>
-              td.th-1 consultoría de grupo
+              td.th-1 Consultoría de grupo
               td.th-1 
               td.th-1  
               td.th-1  
