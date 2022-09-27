@@ -408,15 +408,15 @@
         h4 <b>Clasificación de la estadística</b>
 
     p.mb-3 Las formas de ejecución de los procesos estadísticos traen consigo resultados particulares o distintos que, en función de las acciones operativas de una organización, tendrán más validez en unos casos que en otros. Esto es lo que podría denominarse clasificación de la estadística. Aplicar la estadística reconociendo su utilidad diferenciada para cada caso, traerá más y mejores aportes para el alcance de objetivos, toma de decisiones y aplicación de acciones en un proyecto empresarial.
-    p (Ver figura 2).
+    p (Ver figura 3).
 
     .row.justify-content-center
       .col-lg-6(data-aos="fade")
         .titulo-sexto.color-acento-contenido
-          h5 Figura 2. 
-        span  Clasificación de la estadística
-          figure
-            img.mx-2(src='@/assets/curso/images/tema3/info_3.svg' alt='' , style="width:1000px; display:block; margin:auto 0 ;")
+          h5 Figura 3. 
+          span  Clasificación de la estadística
+        figure
+          img.mx-2(src='@/assets/curso/images/tema3/info_3.svg' alt='' , style="width:1000px; display:block; margin:auto 0 ;")
 
     ul.lista-ul--color.mt-3
       li 
