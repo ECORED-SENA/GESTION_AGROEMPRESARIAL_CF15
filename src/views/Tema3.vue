@@ -103,35 +103,30 @@
   .container.bg-white.px-md-5.px-3.py-2.container-top.fondo-2.m-top.mb-0.cs
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        SlyderF(columnas="col-lg-6 col-xl-4")(data-aos="fade-down")
-          .tarjeta.sp1.p-3.h-100
-            .row.justify-content-center.mb-3
-              .col-12
-                img.mb-3(src='@/assets/curso/images/tema3/img_4.svg')
-                h4.text-center Conocimiento de los procesos
-                p.mb-0.text-center Las herramientas de gestión facilitan el análisis de la organización y aumentan el control, ampliando el conocimiento de los procesos y actividades que se desarrollan.
+        SlyderF(columnas="col-lg-6 col-xl-4")(data-aos="fade-down") 
+          .row.justify-content-center.mb-3
+            .col-11.sp1.p-3.slyderF-media
+              img.mb-3(src='@/assets/curso/images/tema3/img_4.svg')
+              h4.text-center Conocimiento de los procesos
+              p.mb-0.text-center Las herramientas de gestión facilitan el análisis de la organización y aumentan el control, ampliando el conocimiento de los procesos y actividades que se desarrollan.
                   
-
-          .tarjeta.sp1.p-3.h-100
-            .row.justify-content-center.mb-3
-              .col-12
-                img.mb-3(src='@/assets/curso/images/tema3/img_5.svg')
-                h4.text-center Alineación de acciones y procedimientos
-                p.mb-0.text-center En un ejercicio compartido con los diferentes actores de áreas funcionales y haciendo uso de las distintas herramientas de gestión, se alinean en la organización: la resolución de problemas y la definición de soluciones, fijación de objetivos, entre otros.
+          .row.justify-content-center.mb-3
+            .col-11.sp1.p-3.slyderF-media
+              img.mb-3(src='@/assets/curso/images/tema3/img_5.svg')
+              h4.text-center Alineación de acciones y procedimientos
+              p.mb-0.text-center En un ejercicio compartido con los diferentes actores de áreas funcionales y haciendo uso de las distintas herramientas de gestión, se alinean en la organización: la resolución de problemas y la definición de soluciones, fijación de objetivos, entre otros.
                   
-          .tarjeta.sp1.p-3.h-100
-            .row.justify-content-center.mb-3
-              .col-12
-                img.mb-3(src='@/assets/curso/images/tema3/img_6.svg')
-                h4.text-center Revisión de variables diversas
-                p.mb-0.text-center En estas herramientas se puede hacer revisiones de variables cualitativas o cuantitativas para toma de decisiones frente a alternativas empresariales.
+          .row.justify-content-center.mb-3
+            .col-11.sp1.p-3.slyderF-media
+              img.mb-3(src='@/assets/curso/images/tema3/img_6.svg')
+              h4.text-center Revisión de variables diversas
+              p.mb-0.text-center En estas herramientas se puede hacer revisiones de variables cualitativas o cuantitativas para toma de decisiones frente a alternativas empresariales.
 
-          .tarjeta.sp1.p-3.h-100
-            .row.justify-content-center.mb-3
-              .col-12
-                img.mb-3(src='@/assets/curso/images/tema3/img_7.svg')
-                h4.text-center Métodos eficaces de gestión
-                p.mb-0.text-center Las herramientas de análisis empresarial son, en definitiva, métodos considerados eficaces para llevar a cabo la gestión administrativa de una empresa, al facilitar la toma de decisiones.
+          .row.justify-content-center.mb-3
+            .col-11.sp1.p-3.slyderF-media
+              img.mb-3(src='@/assets/curso/images/tema3/img_7.svg')
+              h4.text-center Métodos eficaces de gestión
+              p.mb-0.text-center Las herramientas de análisis empresarial son, en definitiva, métodos considerados eficaces para llevar a cabo la gestión administrativa de una empresa, al facilitar la toma de decisiones.
 
   .container.bg-white.p-md-5.p-4.container-bottom.mt-0.cs.mb-5 
       
@@ -499,53 +494,50 @@
       .col-lg-12
         .tarjeta.tarjeta--gris.p-4.mb-5
           PasosB.color-acento-botones
-            .row(titulo="Población o universo (N)")
-              .col-md-6.mb-4.mb-md-0
+            .row.justify-content-center.align-items-center.ml(titulo="Población o universo (N)")
+              .col-md-10.mb-4.mb-md-0.col-lg-5.pe-5
                 h4 Población o universo (N)
                 p Se refiere al total de individuos sobre los que se espera proyectar las conclusiones. Por ejemplo, toda la población de un municipio, los estudiantes de un colegio o los trabajadores de una empresa agropecuaria.
             
-              .col-md-6
+              .col-md-10.col-lg-5.pe-5
                 figure
-                  img(src='@/assets/curso/images/tema3/img_17.svg', alt='Texto que describa la imagen')
-      
+                  img.img-a.img-t(src='@/assets/curso/images/tema3/img_17.svg', alt='Texto que describa la imagen')
 
-
-            .row(titulo="Nivel de confianza")
-              .col-md-6.mb-4.mb-md-0
+            .row.justify-content-center.align-items-center.ml(titulo="Nivel de confianza")
+              .col-md-10.mb-4.mb-md-0.col-lg-5.pe-5
                 h4 Nivel de confianza
                 p Es un parámetro definido por el investigador, con el que se determina qué tan preciso se quiere que sea el estudio. Los valores utilizados con mayor frecuencia obedecen a un factor estimado, presentado en la tabla.
             
-              .col-md-6
+              .col-md-10.col-lg-5.pe-5
                 figure
-                  img(src='@/assets/curso/images/tema3/img_18.svg', alt='Texto que describa la imagen')
-    
+                  img.img-a.img-t(src='@/assets/curso/images/tema3/img_18.svg', alt='Texto que describa la imagen')
 
-            .row(titulo="Margen de error (e)")
-              .col-md-6.mb-4.mb-md-0
+            .row.justify-content-center.align-items-center.ml(titulo="Margen de error (e)")
+              .col-md-10.mb-4.mb-md-0.col-lg-5.pe-5
                 h4 Margen de error (e)
                 p Mide el rango de tolerancia que diferencia al resultado obtenido de la muestra en comparación con el de la población. Por ejemplo, un margen de error del 5 % implica que si el resultado de un estudio es una estatura promedio de las personas de la muestra en 1.80cm, este indicador en la población oscilará entre 1.71 y 1.89, es decir un 5% menor o un 5% mayor del valor obtenido.
             
-              .col-md-6
+              .col-md-10.col-lg-5.pe-5
                 figure
-                  img(src='@/assets/curso/images/tema3/img_19.svg', alt='Texto que describa la imagen')
+                  img.img-a.img-t(src='@/assets/curso/images/tema3/img_19.svg', alt='Texto que describa la imagen')
               
-            .row(titulo="Probabilidad de éxito (p)")
-              .col-md-6.mb-4.mb-md-0
+            .row.justify-content-center.align-items-center.ml(titulo="Probabilidad de éxito (p)")
+              .col-md-10.mb-4.mb-md-0.col-lg-5.pe-5
                 h4 Probabilidad de éxito (p)
                 p Este indicador puede tomarse de otros estudios previos relacionados, si no existe ninguna noción al respecto, se deduce que la probabilidad de éxito y de fracaso son equivalentes, es decir 50%.
             
-              .col-md-6
+              .col-md-10.col-lg-5.pe-5
                 figure
-                  img(src='@/assets/curso/images/tema3/img_20.svg', alt='Texto que describa la imagen')
+                  img.img-a.img-t(src='@/assets/curso/images/tema3/img_20.svg', alt='Texto que describa la imagen')
 
-            .row(titulo="Probabilidad de fracaso (q)")
-              .col-md-6.mb-4.mb-md-0
+            .row.justify-content-center.align-items-center.ml(titulo="Probabilidad de fracaso (q)")
+              .col-md-10.mb-4.mb-md-0.col-lg-5.pe-5
                 h4 Probabilidad de fracaso (q)
                 p Al igual que el indicador anterior, obedece a evidencia de estudios previos, la suma de la probabilidad de éxito más la de fracaso debe ser igual al 100 % de los eventos. Así pues, la probabilidad de fracaso será igual al 100 % menos la probabilidad de éxito, en otras palabras q = 1 - p
             
-              .col-md-6
+              .col-md-10.col-lg-5.pe-5
                 figure
-                  img(src='@/assets/curso/images/tema3/img_21.svg', alt='Texto que describa la imagen')
+                  img.img-a.img-t(src='@/assets/curso/images/tema3/img_21.svg', alt='Texto que describa la imagen')
 
     .row.align-items-center.aling.my-3
       .col-lg-12(data-aos="zoom-in-down")
